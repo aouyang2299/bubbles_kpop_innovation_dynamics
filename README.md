@@ -17,11 +17,11 @@ This project highlights
 - transforming a class example into a technical project that highlights data wrangling (feature vectors, data normalization, similarity scores) and data visualization
 
 Sample Visualizations
-<img width="546" src="https://github.com/user-attachments/assets/5cd0e1ce-5e56-49ba-8bcc-d755227bc2f7">
 
-<img width="546" src="https://github.com/user-attachments/assets/7d4e4b27-ab75-46bf-a7f6-6874e2e8b9a8">
+<img width="546" alt="Screenshot 2024-07-25 at 1 01 44 AM" src="https://github.com/user-attachments/assets/da158f1d-0ba0-4515-9afc-622d15bda045">
 
-<img width="546" src="https://github.com/user-attachments/assets/5336a041-f9df-45c0-a652-73b4ef9442eb">
+<img width="546" alt="Screenshot 2024-07-25 at 1 00 43 AM" src="https://github.com/user-attachments/assets/6c687cad-9cf0-44a9-9dbf-6b69f08cb6f9">
+
 
 Key Results
 - The overall data was very noisy and even after seeing only key data, there was much more sound deviance than expected (especially at the start of music journey)
